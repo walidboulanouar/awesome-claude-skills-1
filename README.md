@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [looot-skills](https://github.com/loootai/looot-skills) - 21 skills that find and verify emails, look up phone numbers, enrich companies and people, and pull Google results, keyword volume and backlinks through one looot account. looot shows the price before each run.
 
 
 ## 🔬 Scientific & Research Tools
